@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
    王志任的脚手架基础模板
+   发布tag v2.0
   </div>
 </template>
 
